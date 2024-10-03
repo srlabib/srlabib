@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahtaz Rahman Labib, a high school student.
-- 👀 I’m interested in competitive programming. I also do game development often.
+- 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning new algorithms and data structures.
 - 📫 email: srlabib99@gmail.com
 
